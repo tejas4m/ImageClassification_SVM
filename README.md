@@ -1,8 +1,11 @@
 # SVM Classifier Model for Image Classification
 
-##  An (Support Vector Machine)SVM Classifier for Classiying images of 5 famous sports personalities
+##  A (Support Vector Machine) SVM Classifier for Classiying images of 5 famous sports personalities
 
-- Tech Stack
-  > jupyter notebook
-  > OpenCV
+> Tech Stack
+  - jupyter notebook
+  - OpenCV
+
+> Dataset 
+  - Web Scraped 
   
